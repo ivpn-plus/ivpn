@@ -9,7 +9,7 @@
 | Платформа | Где скачать | Минимальная версия системы |
 |---|---|---|
 | Android | `iVPN-<версия>.apk` в Releases | Android 7.0 и новее; процессор ARM (arm64-v8a или armeabi-v7a) |
-| iPhone и iPad | App Store | iOS / iPadOS 16.0 и новее (Live Activity — с iOS 16.2, кнопка «Отключить» в ней — с iOS 17) |
+| iPhone и iPad | App Store | iOS / iPadOS 16.0 и новее (Live Activity — с iOS 16.2; кнопки в Live Activity и виджетах — с iOS 17; переключатель в Пункте управления — с iOS 18) |
 | macOS | скоро в App Store | macOS 13 Ventura и новее |
 | Windows | скоро | — |
 
