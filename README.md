@@ -9,7 +9,7 @@
 | Платформа | Где скачать | Минимальная версия системы |
 |---|---|---|
 | Android | `iVPN-<версия>.apk` в Releases | Android 7.0 и новее; процессор ARM (arm64-v8a или armeabi-v7a) |
-| iPhone и iPad | App Store | iOS / iPadOS 16.0 и новее (Live Activity — с iOS 16.2; кнопки в Live Activity и виджетах — с iOS 17; переключатель в Пункте управления — с iOS 18) |
+| iPhone и iPad | TestFlight | iOS / iPadOS 15.0 и новее (команды Siri — с iOS 16; виджеты — с iOS 16.1; Live Activity — с iOS 16.2; кнопки в Live Activity и виджетах — с iOS 17; переключатель в Пункте управления — с iOS 18) |
 | macOS | скоро в App Store | macOS 13 Ventura и новее |
 | Windows | `iVPN-Setup-<версия>.exe` в Releases | Windows 10 и 11, 64-бит |
 
@@ -19,4 +19,4 @@
 
 **Windows.** Скачайте `iVPN-Setup-<версия>.exe` и запустите. Установщик без цифровой подписи: если Windows покажет «Windows защитила ваш компьютер», нажмите «Подробнее» → «Выполнить в любом случае». Новые версии приложение предложит само.
 
-**iPhone и iPad.** Через App Store.
+**iPhone и iPad.** Через TestFlight: установите приложение TestFlight из App Store и откройте приглашение. Новые сборки TestFlight предложит сам.
